@@ -2,7 +2,7 @@
 
 A userscript fork of [Open-In-Apollo](https://github.com/AnthonyGress/Open-In-Apollo) by Anthony Gress to support Apollo running within [Live Container](https://github.com/AnthonyGress/Open-In-Apollo). Supports Live Container **only**, for normal sideloaded Apollo see original script.
 
-I've also adapted this to a few other scripts for Twitter, Youtube, Instagram, Strava/Fitbod and uploaded here. Thanks to https://gist.github.com/ryuya0124/e6e59ceba8f03bf40f3b5accedc52e44 for Twitter script.
+I've also adapted this to a few other scripts for Twitter, Youtube, Instagram, Spotify, Strava/Fitbod and uploaded here. Thanks to https://gist.github.com/ryuya0124/e6e59ceba8f03bf40f3b5accedc52e44 for Twitter script.
 
 ## Available Userscripts
 
@@ -17,6 +17,7 @@ I've also adapted this to a few other scripts for Twitter, Youtube, Instagram, S
 - [Open In Twitter Live Container](open-in-twitter-live-container.user.js) - Twitter/X links
 - [Open In Instagram Live Container](open-in-instagram-live-container.user.js) - Instagram links
 - [Open In YouTube Live Container](open-in-youtube-live-container.user.js) - YouTube links
+- [Open In Spotify Live Container](open-in-spotify-live-container.user.js) - Spotify links
 
 ## How to install
 
